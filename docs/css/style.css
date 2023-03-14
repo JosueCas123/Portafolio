@@ -86,6 +86,11 @@ a{
     font-weight: 300;
 }
 
+.redes__icon{
+  display: flex;
+}
+
+
 
 
 .img__josue{
